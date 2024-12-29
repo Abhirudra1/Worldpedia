@@ -78,7 +78,7 @@
   /* Layout  */
   
   .container {
-    max-width: 120rem;
+    max-width: 110rem;
     margin: auto;
   }
   
@@ -101,7 +101,7 @@
   /* Layout  */
   
   header {
-    height: 10rem;
+    height: 9rem;
     box-shadow: rgba(255, 255, 255, 0.3) 0px 10px 10px -10px;
     background-color: #202020;
     width: 100%;
@@ -362,7 +362,7 @@
   
   .copyright-area {
     background: #202020;
-    padding: 25px 0;
+    padding: 15px 0;
   }
   .copyright-text p {
     margin: 0;
