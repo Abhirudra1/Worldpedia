@@ -24,6 +24,7 @@ export default function CountryDetails() {
 
   return (
     <section className="card country-details-card container">
+
       <div className="container-card bg-white-box">
         {country && (
           <div className="country-image grid grid-two-cols">

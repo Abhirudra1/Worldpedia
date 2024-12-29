@@ -14,7 +14,7 @@ export default function Contact() {
         <form action={handleFormSubmit} method="POST">
           <input type="text" className="form-control" required autoComplete="false" placeholder="Enter your name" name="username" />
           <input type="email" className="form-control" required autoComplete="true" placeholder="Enter your email" name="username" />
-          <textarea name="message" className="form-control" placeholder="Enter your message" rows="10" autoComplete="false" id=""></textarea>
+          <textarea name="message" className="form-control" placeholder="Enter your message" rows="10" autoComplete="off" id=""></textarea>
           <button type="submit" value="send">Send</button>
         </form>
       </div>
